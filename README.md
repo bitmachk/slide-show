@@ -1,6 +1,8 @@
 # slide-show
 JavaScript on Webpage
 
+Download all the files above to try out the slide show effect; see how it works!
+
 ## Heading
 ```
 <head>
